@@ -60,13 +60,13 @@ kramdown:
 # disqus_username: qiubaiying
 
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: e8eae128ffaee8de1951                            #生成的clientID
-  clientSecret: 3974adc7f020409b5ea481f8e06fb35e72cd7f2c    #生成的clientSecret
-  repo: junglethebest.github.io    #仓库名称
-  owner: junglethebest    #github用户名
-  admin: junglethebest
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: true #是否开启
+  githubID: junglethebest #你的Github用户名
+  repo: junglethebest.github.io #Github仓库名称
+  ClientID: e8eae128ffaee8de1951 #创建的Application ClientID
+  ClientSecret: 3974adc7f020409b5ea481f8e06fb35e72cd7f2c #创建的Application ClientSecret
+  adminUser: junglethebest # 评论初始化账户(GitHub ID)
+  distractionFreeMode: true # 是否开启分心自由模式 也就是免打扰
 
 
 # 统计
