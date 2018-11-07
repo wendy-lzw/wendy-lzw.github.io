@@ -63,8 +63,8 @@ gitalk:
   enable: true #是否开启
   githubID: junglethebest #你的Github用户名
   repo: junglethebest.github.io #Github仓库名称
-  ClientID: d481e4502745bcef05e9 #创建的Application ClientID
-  ClientSecret: 503dd719da4b19e93dbab67b9ebeff941aaa351d #创建的Application ClientSecret
+  ClientID: e8eae128ffaee8de1951 #创建的Application ClientID
+  ClientSecret: 3974adc7f020409b5ea481f8e06fb35e72cd7f2c #创建的Application ClientSecret
   adminUser: junglethebest # 评论初始化账户(GitHub ID)
   distractionFreeMode: true # 是否开启分心自由模式 也就是免打扰
 
