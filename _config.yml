@@ -1,17 +1,17 @@
 # Site settings
-title: Jungle's Blog
-SEOTitle: Jungle的博客 | Jungle's Blog
+title: WendyL's Blog
+SEOTitle: Just for WendyL
 header-img: img/post-bg-desk.jpg
-email: jungleleeee@gmail.com
-description: "Every failure is leading towards success."
+email: #462398577@qq.com
+description: "WendyL in your area!!!"
 keyword: ""
-url: "http://junglehebest.github.io"          # your host, for absolute URL
+url: "http://wendylzw.github.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/junglethebest/junglethebest.github.io" # you code repository
+github_repo: "https://github.com/wendylzw/junglethebest.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Je pense, donc je suis"
+sidebar-about-description: "you'll find me in the sea of dreams"
 sidebar-avatar: /img/zhang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,11 +19,11 @@ sidebar-avatar: /img/zhang.jpg      # use absolute URL, seeing it's used in both
 # SNS settings
 RSS: false
 # weibo_username:     bestjungle
-zhihu_username:     bestjungle
-github_username:    junglethebest
-facebook_username:  Lee Jungle
+#zhihu_username:     bestjungle
+#github_username:    junglethebest
+#facebook_username:  Lee Jungle
 #jianshu_username:   e71990ada2fd
-twitter_username:   elementjungle
+#4twitter_username:   elementjungle
 
 
 
@@ -102,7 +102,7 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://junglethebest.top"
     },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
