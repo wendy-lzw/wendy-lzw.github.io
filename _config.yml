@@ -1,7 +1,7 @@
 # Site settings
 title: WendyL's Blog
 SEOTitle: Just for WendyL
-header-img: img/IMG_5148.jpg
+header-img: img/IMG_5148.JPG
 email: #462398577@qq.com
 description: "WendyL in your area!!!"
 keyword: ""
@@ -12,7 +12,7 @@ github_repo: "https://github.com/wendylzw/junglethebest.github.io" # you code re
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "you'll find me in the sea of dreams"
-sidebar-avatar: /img/IMG_7249.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/IMG_7249.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
